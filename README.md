@@ -2,7 +2,7 @@
   <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 <h1>Hi there, I'm <a href="https://www.profylo.com/hrxtreme">hrxtreme</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
   
-I am now in **Ubisoft** 🐧
+I am now working  🐧
 
 School at **Fergusson College Pune**，Major in **Computer Science**💻
 
